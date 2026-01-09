@@ -61,3 +61,4 @@ Sou dev focado em **Frontend** (React/TS) com pé forte em **produtividade, arqu
 <p align="center">
   <img src="https://raw.githubusercontent.com/rb-cesar/rb-cesar/output/github-contribution-grid-snake.svg" />
 </p>
+

@@ -33,14 +33,9 @@ Sou dev focado em **Frontend** (React/TS) com pé forte em **produtividade, arqu
 
 ## 🧰 Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rb-cesar&show_icons=true&hide_title=true&cache_seconds=21600" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb-cesar&layout=compact&cache_seconds=21600" />
+  <img height="180" src="https://streak-stats.demolab.com?user=rb-cesar&cache_seconds=21600" />
 </p>
 
 <p align="left">
@@ -64,5 +59,5 @@ Sou dev focado em **Frontend** (React/TS) com pé forte em **produtividade, arqu
 
 ## 🐍 Contributions Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rb-cesar/rb-cesar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rb-cesar/rb-cesar/output/github-contribution-grid-snake.svg" />
 </p>

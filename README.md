@@ -27,7 +27,7 @@ Sou dev focado em **Frontend** (React/TS) com pé forte em **produtividade, arqu
 
 - 🔭 Atualmente: projetos com **React + TypeScript**
 - 🧠 Curto: **clean code**, componentes reutilizáveis, DX, automações
-- ⚡ Extra: APIs/SSR, dashboards, e experiências de UI bem polidas
+- ⚡ Extra: APIs/SSR, dashboards, e experiências de UI
 
 ---
 

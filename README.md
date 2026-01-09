@@ -1,17 +1,68 @@
-# Olá Sou Rubens César!
+<!-- Banner (header) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=C%C3%A9sar%20Cruz&fontAlign=50&fontAlignY=40&desc=Frontend%20%7C%20TypeScript%20%7C%20React%20%7C%20Node&descAlign=50&descAlignY=60"
+    alt="header"
+  />
+</p>
 
- <div>
+<!-- Typing effect -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=700&lines=Construindo+produtos+com+React%2C+TypeScript+e+Node;UI+com+Grommet+e+Material+UI;Clean+Code%2C+Arquitetura+e+DX;Sempre+aprendendo+e+otimizando+fluxos+reais"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
   <a href="https://github.com/rb-cesar">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rb-cesar&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb-cesar&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="rb-cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="rb-cesar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="rb-cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="rb-cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="rb-cesar-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="gerson-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=rb-cesar&style=flat" />
+  </a>
+</p>
+
+---
+
+## 👋 Sobre mim
+Sou dev focado em **Frontend** (React/TS) com pé forte em **produtividade, arquitetura e UI**, e gosto de construir coisas que viram produto de verdade.
+
+- 🔭 Atualmente: projetos com **React + TypeScript**
+- 🧠 Curto: **clean code**, componentes reutilizáveis, DX, automações
+- ⚡ Extra: APIs/SSR, dashboards, e experiências de UI bem polidas
+
+---
+
+## 🧰 Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Grommet-000?style=for-the-badge&logo=grommet" />
+  <img src="https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=mui" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rb-cesar&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb-cesar&layout=compact" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=rb-cesar" />
+</p>
+
+---
+
+## 🐍 Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rb-cesar/rb-cesar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
